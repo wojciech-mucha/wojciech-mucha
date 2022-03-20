@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wojciech-mucha
-- 👀 I’m interested in BI, Datawarehousing, Spark
+- 👀 I’m interested in BI, Datawarehousing, ETL/ELT
 - 🌱 I’m currently learning Python/Spark/ML
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me - via mail
